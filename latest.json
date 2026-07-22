@@ -1,5 +1,5 @@
 {
-  "version": "0.2.0",
-  "url": "https://www.incomesync.com.au",
-  "notes": "v0.2.0 - the Statement Ledger engine: statement-level dedup, suppression instead of deletion, recoverable history."
+  "version": "0.3.0",
+  "url": "https://github.com/markkshark/incomesync/releases/latest",
+  "notes": "v0.3.0 - a statement whose printed total does not match what was read is now refused instead of silently counted; skipped rows are explained on the Imports screen; in-app help; licensee split on Suppliers and Advisers."
 }
