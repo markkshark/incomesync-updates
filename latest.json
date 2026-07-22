@@ -1,5 +1,5 @@
 {
-  "version": "0.3.0",
+  "version": "0.3.1",
   "url": "https://github.com/markkshark/incomesync/releases/latest",
-  "notes": "v0.3.0 - a statement whose printed total does not match what was read is now refused instead of silently counted; skipped rows are explained on the Imports screen; in-app help; licensee split on Suppliers and Advisers."
+  "notes": "v0.3.1 - a statement whose printed total does not match what was read is now refused instead of silently counted; skipped rows are explained on the Imports screen; in-app help on every screen; licensee split on Suppliers and Advisers."
 }
