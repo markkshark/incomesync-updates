@@ -1,0 +1,5 @@
+{
+  "version": "0.2.0",
+  "url": "https://www.incomesync.com.au",
+  "notes": "v0.2.0 - the Statement Ledger engine: statement-level dedup, suppression instead of deletion, recoverable history."
+}
